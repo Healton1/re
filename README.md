@@ -1,2 +1,2 @@
-# ss-replit
+# -replit
 Thanks
